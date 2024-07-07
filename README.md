@@ -1,5 +1,4 @@
-# SperakX_assigment
-# Telco Churn Prediction Project
+# Telco Churn Prediction Project using Machine learning classification model
 
 This project predicts customer churn in a telecommunications company using machine learning techniques. It involves data loading, preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation. Key steps include environment setup, data preprocessing, EDA, feature engineering, model training, and visualization of results.
 
@@ -11,7 +10,7 @@ The project aims to identify customers at risk of churning, enabling targeted re
 
 - Abhishek_cv.pdf: Resume of Abhishek Kumar Singh.
 - README.md: Overview and description of files in the project.
-- SpeakX_assigment_word.pdf: Assignment document.
+- word.pdf: Assignment document.
 - TelcoChurn.csv: Dataset containing customer information and churn status.
 - speakx.py: Python script file.
 - speakx_assignment.ipynb: Jupyter Notebook containing the project code.
